@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": "Koshal Parwan",
+    "occupation": "Front-End Engineer",
+    "description": "I eat, sleep and code <span>React</span>",
+    "image": "profilepic.jpg",
+    "bio": "Courteous and very enthusiastic. Koshal is a front-end developer with an interest in IT and everything that is in its orbit. Specialize in javascript and have technical experience in react, next, node, Express Js, jest, enzyme, git, MySQL, and CSS 3 such as flex and pseudo-elements, external libraries, and modules such as password JS, Bootstrap 4, style components and many other.",
+    "contactmessage": "Get in touch with me!",
+    "email": "nileshparwan.utm.bse16b@gmail.com",
+    "phone": "(+230) 59646132",
+    "address": {
+      "street": "Beaux-Songes, Bambous",
+      "city": "Mauritius",
+      "state": "Black-River",
+      "zip": "90201"
+    },
+    "website": "https://www.linkedin.com/in/koshal-parwan-43b0aa128/",
+    "resumedownload": "https://www.linkedin.com/in/koshal-parwan-43b0aa128/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nileshparwan/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/koshal-parwan-43b0aa128/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nilesh_parwan/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nileshparwan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Technology, Mauritius",
+        "degree": "Deploma, Software Engineering",
+        "graduated": "July 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Hangar World wide",
+        "title": "Front-End Engineer",
+        "years": "December 2019 - Present",
+        "description": "My mission as a front end is to assist my team into migrating pampers official website(https://www.pampers.com/) to new technologies and platforms using Jamstack solution. Technologies used are: React JS, Next JS, Contentful, Azure DevOps."
+      },
+      {
+        "company": "Ceridian",
+        "title": "Associate Implementation Consultant",
+        "years": "January 2019 - December 2019",
+        "description": "Responsible for managing projects that vary in nature based on solution purchased and complexity of requirements. \nContributing to project plans and ensuring project is on time, meets and/or exceeds. \nWork in conjunction with resources within and outside of the team in the completion of an implementation. \nTests and documents and custom solutions for customers. \nEnsures a smooth transition to service team. Etc..."
+      },
+      {
+        "company": "Codevigor",
+        "title": "Intern - Software Engineer",
+        "years": "July 2017 - August 2017",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "NextJs",
+        "level": "50%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "40%"
+      },
+      {
+        "name": "Azure Devops",
+        "level": "60%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Git & Fork",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      },
+      {
+        "name": "Contentful",
+        "level": "75%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "70%"
+      },
+      {
+        "name": "Jest & Enzyme",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.png",
+        "url": "https://snapchat-clone-c.web.app/"
+      },
+      {
+        "title": "Amazone Clone (React JS)",
+        "category": "",
+        "image": "Amazon.jpg",
+        "url": "https://fir-82e13.web.app/"
+      },
+      {
+        "title": "Facebook Messenger Clone(React JS)",
+        "category": "",
+        "image": "Messenger.jpg",
+        "url": "https://facebook-messenger-clone-9c558.web.app/"
+      },
+      {
+        "title": "Signal Clone (React Native) *UPCOMING",
+        "category": "",
+        "image": "signal.png",
+        "url": ""
+      },
+      {
+        "title": "Barber Shop App (React Native) *UPCOMING",
+        "category": "",
+        "image": "barber.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Nilesh is very dedicated, sincere and hardworking, it was always a pleasure to work besides him",
+        "user": "Arbaaz Mowlabucus"
+      }
+    ]
+  }
+}
