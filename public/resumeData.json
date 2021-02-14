@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Koshal Parwan",
-    "occupation": "Front-End Engineer",
+    "occupation": " Front-End Engineer",
     "description": "I eat, sleep and code <span>React</span>",
     "image": "profilepic.jpg",
     "bio": "Courteous and very enthusiastic. Koshal is a front-end developer with an interest in IT and everything that is in its orbit. Specialize in javascript and have technical experience in react, next, node, Express Js, jest, enzyme, git, MySQL, and CSS 3 such as flex and pseudo-elements, external libraries, and modules such as password JS, Bootstrap 4, style components and many other.",
@@ -119,22 +119,28 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix-logo-759.jpg",
+        "url": "https://netflix-clone-c.web.app/"
+      },
+      {
         "title": "Snapchat Clone (React JS)",
         "category": "",
         "image": "snapchat.png",
         "url": "https://snapchat-clone-c.web.app/"
       },
       {
-        "title": "Amazone Clone (React JS)",
-        "category": "",
-        "image": "Amazon.jpg",
-        "url": "https://fir-82e13.web.app/"
-      },
-      {
         "title": "Facebook Messenger Clone(React JS)",
         "category": "",
         "image": "Messenger.jpg",
         "url": "https://facebook-messenger-clone-9c558.web.app/"
+      },
+      {
+        "title": "Amazone Clone (React JS)",
+        "category": "",
+        "image": "Amazon.jpg",
+        "url": "https://fir-82e13.web.app/"
       },
       {
         "title": "Signal Clone (React Native) *UPCOMING",
@@ -153,8 +159,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Nilesh is very dedicated, sincere and hardworking, it was always a pleasure to work besides him",
+        "text": "Koshal is very dedicated, sincere and hardworking, it was always a pleasure to work besides him",
         "user": "Arbaaz Mowlabucus"
+      },
+      {
+        "text": "Koshal is a great guy to work with, he always strives to deliver the best solution to clients. One thing I liked about him is his inquisitive mind, he is keen to learn new technologies and tools. I would strongly recommend him for his work ethics.",
+        "user": "Avinash Mantaye"
       }
     ]
   }
